@@ -8,6 +8,9 @@ This is a **Movie Recommendation System** built using **Machine Learning** and a
 - 📡 **TMDb API Integration**: Fetches movie posters and details dynamically.
 - 🔍 **Fast & Lightweight**: Runs efficiently on local machines.
 
+## Preview
+![Movie Recommendation](images/preview.png)
+
 ## Installation
 
 ### 1. Clone the Repository
